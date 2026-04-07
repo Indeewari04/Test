@@ -2,6 +2,12 @@ push origin
 push origin
 push origin
 git push -u origin main
+git push --set-upstream origin feacture/v2
+git push --set-upstream origin feacture/v2
+git push --set-upstream origin feacture/v2
+git push --set-upstream origin feacture/v2
+git push --set-upstream origin feacture/v2
+git push --set-upstream origin feacture/v2
 
 
 
